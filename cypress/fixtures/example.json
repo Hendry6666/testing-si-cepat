@@ -1,0 +1,9 @@
+{
+  "username": "standard_user",
+  "password": "secret_sauce",
+  "firstname": "Standar",
+  "lastname": "User",
+  "portalcode":"hhhh1256",
+  "hino":"hilo",
+  "body": "Fixtures are a great way to mock data for responses to routes"
+}
